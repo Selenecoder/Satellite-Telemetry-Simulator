@@ -1,32 +1,24 @@
 # 🛰️ Satellite Telemetry Simulator
 
-This project simulates telemetry data from a virtual satellite and visualizes real-time metrics such as battery level, temperature, and signal strength.
+A real-time telemetry dashboard simulating satellite metrics using Python and Streamlit.
 
-Built with: `Python`, `matplotlib`, `pandas`, `random`, `datetime`
+## 🚀 Features
 
-## Features
-- Real-time data simulation and plotting
-- Data logging to CSV
-- Threshold alerts
-- Optional GUI/Dashboard
+- Live telemetry simulation (Battery, Temperature, Altitude, Signal, Solar Output)
+- Real-time charts and metric cards
+- Alerts for critical readings (Battery < 20%, Temp > 70°C)
+- Fullscreen chart view toggle
+- Export data as CSV
+- Deployed on Streamlit Cloud
 
-Developed as part of an application for the ISRO MCF internship.
+## 📸 Screenshot
 
-📂 Folder Structure (Simple)
+![dashboard](plots/live_plot.png)
 
-satellite-telemetry-simulator/
+## 💻 Run Locally
 
-│
-
-├── telemetry_simulator.py
-
-├── data/
-
-│   └── telemetry_log.csv
-
-├── plots/
-
-│   └── live_plot.png (if saving)
-
-└── README.md
-
+```bash
+git clone https://github.com/your-username/satellite-telemetry-simulator.git
+cd satellite-telemetry-simulator
+pip install -r requirements.txt
+streamlit run telemetry_dashboard.py
