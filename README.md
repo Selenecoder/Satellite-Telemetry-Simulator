@@ -13,6 +13,7 @@ Built with: `Python`, `matplotlib`, `pandas`, `random`, `datetime`
 Developed as part of an application for the ISRO MCF internship.
 
 📂 Folder Structure (Simple)
+
 satellite-telemetry-simulator/
 │
 ├── telemetry_simulator.py
