@@ -1,6 +1,5 @@
 # 🛰️ Satellite Telemetry Simulator
-
-![Satellite Telemetry Simulator](thumbnail.png)
+<img src="Satellite-Telemetry-Simulator/thumbnail.png" alt="Satellite Telemetry Simulator" width="500"/>
 
 A real-time telemetry dashboard simulating satellite metrics using Python and Streamlit.
 
