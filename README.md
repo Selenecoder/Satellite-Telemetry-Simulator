@@ -11,3 +11,14 @@ Built with: `Python`, `matplotlib`, `pandas`, `random`, `datetime`
 - Optional GUI/Dashboard
 
 Developed as part of an application for the ISRO MCF internship.
+
+📂 Folder Structure (Simple)
+satellite-telemetry-simulator/
+│
+├── telemetry_simulator.py
+├── data/
+│   └── telemetry_log.csv
+├── plots/
+│   └── live_plot.png (if saving)
+└── README.md
+
