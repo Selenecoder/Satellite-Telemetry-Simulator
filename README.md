@@ -13,8 +13,8 @@ A real-time telemetry dashboard simulating satellite metrics using Python and St
 - Deployed on Streamlit Cloud
 
 ## 📸 Screenshot
+<img src="Satellite-Telemetry-Simulator/Plots/live_plot.png" alt="chart" width="400"/> <img src="Satellite-Telemetry-Simulator/dashboard.png" alt="dashboard" width="600"/>
 
-![dashboard](plots/live_plot.png)
 
 ## 💻 Run Locally
 
