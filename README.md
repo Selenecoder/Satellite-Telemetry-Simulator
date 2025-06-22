@@ -15,6 +15,10 @@ A real-time telemetry dashboard simulating satellite metrics using Python and St
 ## 📸 Screenshot
 <img src="Satellite-Telemetry-Simulator/Plots/live_plot.png" alt="chart" width="400"/> <img src="Satellite-Telemetry-Simulator/dashboard.png" alt="dashboard" width="600"/>
 
+## 🌐 Live Demo
+
+[Click here to open the Satellite Telemetry Simulator](https://satellite-telemetry-simulator-3kvyfpmnekgx2pkqgmr3kh.streamlit.app/)
+
 
 ## 💻 Run Locally
 
