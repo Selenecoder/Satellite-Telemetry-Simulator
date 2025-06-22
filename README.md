@@ -1,5 +1,7 @@
 # 🛰️ Satellite Telemetry Simulator
 
+![Satellite Telemetry Simulator](thumbnail.png)
+
 A real-time telemetry dashboard simulating satellite metrics using Python and Streamlit.
 
 ## 🚀 Features
